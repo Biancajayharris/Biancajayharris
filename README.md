@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Biancajayharris
+- 👀 I’m interested in I'm interested in software development because it allows me to solve complex problems and create innovative solutions that can have a real impact on people's lives.I love continuously improving my skills. Personally I love rollerblading, bouldering and spending time with faily and friends. 
+- 🌱 I’m currently learning React, Javascript, MySQL
+- 💞️ I’m looking to collaborate on projects that will enhance my skills
+- 📫 How to reach me biancaharris150808@gmail.com  
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I did a rollerblading marathon
